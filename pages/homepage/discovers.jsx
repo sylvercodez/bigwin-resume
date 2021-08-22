@@ -232,9 +232,10 @@ export default function Discover() {
                   data-aos-delay="100"
                   className={classes.detail}
                 >
-                  Bigwins finished from hng i7 as a graduate in backend, also he
-                  a university graduate from a federal university in nigeria,
-                  Bigwins is the right plug for your websites.
+                  Bigwins finished from hng i7 (https://hng.tech/) as a graduate
+                  in backend, also he a university graduate from a federal
+                  university in nigeria, Bigwins is the right plug for your
+                  websites.
                 </Typography>
                 <Button
                   variant="contained"
